@@ -71,6 +71,11 @@ body {
   width: 34px;
 }
 
+.glow {
+  background-color: blue;
+}
+
+
 .board-row:after {
   clear: both;
   content: '';
@@ -88,3 +93,4 @@ body {
 .game-info {
   margin-left: 20px;
 }
+
